@@ -1,0 +1,29 @@
+{
+  "components": [
+    {
+      "id": 1,
+      "name": "Rishu Raj",
+      "email": "rishurajcreative@gmail.com"
+    },
+    {
+      "name": "VICKY KUMAR GUPTA",
+      "email": "vickygupta031@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "NIRAJ KUMAR",
+      "email": "2021eem026.vicky@students.iiests.ac.in",
+      "id": 3
+    },
+    {
+      "name": "NISHA GUPTA ",
+      "email": "nisha@test.in",
+      "id": 4
+    },
+    {
+      "name": "Abhijit Parmanick",
+      "email": "abhijitparmanick@gmail.in",
+      "id": 5
+    }
+  ]
+}
